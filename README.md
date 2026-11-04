@@ -55,11 +55,11 @@ Latency per image: CNN ~16 ms, MediaPipe ~28 ms (Colab CPU/GPU).
 2. Put the dataset videos in `cv_assignment/videos/<class_name>/` in Google Drive (folders `peace`, `stop`, `thumbs_up`).
 3. Run all cells in order. The notebook mounts Drive, extracts frames, trains the models and saves the figures and the crop model.
 
-Dataset: [TODO: add Google Drive link to dataset.zip]
+Dataset: https://drive.google.com/drive/folders/1SBECnYqHFlSKZBDttZTJ9Axe7VEHuDsK?hl=ru
 
 ## Demo video
 
-[TODO: add Google Drive link to the demo video]
+(https://drive.google.com/file/d/1AnC9LEKMNnQjsHlaNBmG8WXFKFCPWlBb/view?usp=drive_link)
 
 ## Limitations
 
