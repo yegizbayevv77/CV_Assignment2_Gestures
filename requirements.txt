@@ -1,0 +1,8 @@
+tensorflow==2.21.0
+mediapipe==1.2.2
+gradio
+opencv-python
+numpy
+pandas
+matplotlib
+scikit-learn
